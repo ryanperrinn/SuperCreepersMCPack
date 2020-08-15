@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Pack By RJ226 | Makes Creeper explosions larger and instant | Visit https://rj226.uk for more",
+        "name": "Super Creepers",
+        "uuid": "92446d0d-92ba-4c3e-af84-51549b681f2c",
+        "version": [1,0,0],
+		"min_engine_version": [1,16,0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "282c8939-a254-4394-a595-0d372586160d",
+            "version": [1,0,0]
+        }
+    ]
+}
